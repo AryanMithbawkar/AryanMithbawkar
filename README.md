@@ -1,6 +1,7 @@
+![logo](https://github.com/AryanMithbawkar/AryanMithbawkar/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aryan Mithbawkar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/AryanMithbawkar/AryanMithbawkar/blob/main/Programmer%20Thomas.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmithbawkar&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmithbawkar" /> </p>
 
