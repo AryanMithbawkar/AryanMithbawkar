@@ -211,7 +211,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -221,7 +221,7 @@
   </picture>
 </div>
 
----
+--- -->
 
 <div align="center">
 
