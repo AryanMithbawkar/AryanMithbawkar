@@ -59,115 +59,63 @@
 
 ## 🛠️ Languages & Tools
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a><br/><sub>Android</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a><br/><sub>Azure</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a><br/><sub>CSS3</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a><br/><sub>Django</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a><br/><sub>Firebase</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/></a><br/><sub>Flask</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a><br/><sub>Git</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a><br/><sub>Heroku</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a><br/><sub>HTML5</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a><br/><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a><br/><sub>Kotlin</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a><br/><sub>MongoDB</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a><br/><sub>MSSQL</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><br/><sub>MySQL</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a><br/><sub>Node.js</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a><br/><sub>OpenCV</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a><br/><sub>Oracle</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a><br/><sub>Pandas</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a><br/><sub>Postman</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a><br/><sub>Python</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a><br/><sub>PyTorch</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a><br/><sub>React</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a><br/><sub>Scikit-learn</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a><br/><sub>Seaborn</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a><br/><sub>TensorFlow</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a><br/><sub>Power BI</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://powerautomate.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" width="40" height="40"/></a><br/><sub>Power Automate</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/></a><br/><sub>Playwright</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://n8n.io/"><img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="40" height="40"/></a><br/><sub>n8n</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://analytics.google.com/"><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="40" height="40"/></a><br/><sub>Google Analytics</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://cloud.google.com/bigquery"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/></a><br/><sub>BigQuery</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a><br/><sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br/><sub>Linux</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🧠 AI & Machine Learning
+
+<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" height="45"/></a>&nbsp;
+<a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" height="45"/></a>&nbsp;
+<a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" height="45"/></a>&nbsp;
+<a href="https://scikit-learn.org" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" height="45"/></a>&nbsp;
+<a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv" height="45"/></a>&nbsp;
+<a href="https://anaconda.com" title="Anaconda"><img src="https://skillicons.dev/icons?i=anaconda" height="45"/></a>
+
+### 🌐 Web & Backend
+
+<a href="https://reactjs.org" title="React"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>&nbsp;
+<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>&nbsp;
+<a href="https://www.djangoproject.com" title="Django"><img src="https://skillicons.dev/icons?i=django" height="45"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask" height="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45"/></a>&nbsp;
+<a href="https://kotlinlang.org" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" height="45"/></a>&nbsp;
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="45"/></a>
+
+### 🗄️ Databases & Cloud
+
+<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>&nbsp;
+<a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>&nbsp;
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></a>&nbsp;
+<a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" height="45"/></a>&nbsp;
+<a href="https://azure.microsoft.com" title="Azure"><img src="https://skillicons.dev/icons?i=azure" height="45"/></a>&nbsp;
+<a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="45"/></a>
+
+### ⚙️ Tools & DevOps
+
+<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>&nbsp;
+<a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;
+<a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="45"/></a>&nbsp;
+<a href="https://www.postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>&nbsp;
+<a href="https://www.heroku.com" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" height="45"/></a>&nbsp;
+<a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>&nbsp;
+<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>
+
+### 📊 Power Platform · Analytics · Automation
+
+<a href="https://powerbi.microsoft.com"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://powerautomate.microsoft.com"><img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=0066FF&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://analytics.google.com"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=E37400&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=4285F4&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=2EAD33&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=EA4B71&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://ollama.ai"><img src="https://img.shields.io/badge/Ollama-00D4FF?style=for-the-badge&logo=ollama&logoColor=00D4FF&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://www.oracle.com"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=1e1e2e&color=1e1e2e"/></a>&nbsp;
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=A020F0&labelColor=1e1e2e&color=1e1e2e"/></a>
+
+</div>
 
 ---
 
@@ -175,12 +123,12 @@
 
 <div align="center">
 
-| 🤖 Machine Learning | 📊 Data & Analytics | 🌐 Web & Backend | 🗄️ Databases |
+| 🤖 Machine Learning & AI | 📊 Data & Analytics | 🌐 Web & Backend | 🗄️ Databases |
 |:---|:---|:---|:---|
 | TensorFlow · PyTorch | Pandas · NumPy | Django · Flask | MySQL · MongoDB |
 | Scikit-learn · OpenCV | Seaborn · Matplotlib | React · Node.js | Oracle · MSSQL |
 | Deep Learning · CV | Power BI · BigQuery | HTML · CSS · JS | PostgreSQL · Firebase |
-| — | Google Analytics | Power Automate · n8n | Azure · Linux |
+| Ollama (Local LLMs) | Google Analytics | Power Automate · n8n | Azure · Linux |
 | — | Playwright · Git | Postman · Heroku | — |
 
 </div>
@@ -211,17 +159,19 @@
 
 ---
 
-<!-- ## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanMithbawkar/AryanMithbawkar/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanMithbawkar/AryanMithbawkar/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AryanMithbawkar/AryanMithbawkar/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <table width="100%" bgcolor="#0d1117" cellpadding="18" cellspacing="0" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://ghchart.rshah.org/00D4FF/aryanmithbawkar" alt="Aryan's GitHub Contribution Calendar" width="98%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
---- -->
+---
 
 <div align="center">
 
